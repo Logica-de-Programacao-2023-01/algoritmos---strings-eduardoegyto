@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main()  {
 	var x string
 	fmt.Print("Digite uma string: ")
 	fmt.Scanln(&x)
